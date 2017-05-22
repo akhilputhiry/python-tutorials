@@ -21,8 +21,8 @@
 * Apart from these there are many other meetups happening around the globe
 
 ## Hello World ##
-* Hello world is the entry point to any language
-* kick off the python interpreter by issuing `python` in the terminal
+* Hello world is the abcd for any programmer, so lets do it
+* kick off the python interpreter by issuing `python` in the terminal/command prompt
 * Type `print 'Hello World'` and there you go, Welcome to python
 
 ```
