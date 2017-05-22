@@ -14,3 +14,8 @@
 ## How can I start writing python programs? ##
 * If you are in windows, download and install python from [here](https://www.python.org/downloads/) - If you are not sure which version to use, I prefer you start with 2.7.x version
 * It comes by default in Mac and Linux operating systems, you can kick it off by just typing `python` in the terminal
+
+## How can I be part of the python community ##
+* [Pycons](https://www.pycon.org/) are a great platform to connect with the python community
+* [Pyladies](http://www.pyladies.com/) are a good option for women who love coding
+* Apart from these there are many other meetups happening around the globe
