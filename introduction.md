@@ -19,3 +19,18 @@
 * [Pycons](https://www.pycon.org/) are a great platform to connect with the python community
 * [Pyladies](http://www.pyladies.com/) are a good option for women who love coding
 * Apart from these there are many other meetups happening around the globe
+
+## Hello World ##
+* Hello world is the entry point to any language
+* kick off the python interpreter by issuing `python` in the terminal
+* Type `print 'Hello World'` and there you go, Welcome to python
+
+```
+Akhils-MacBook-Air:python-for-maria akhilputhiry$ python
+Python 2.7.10 (default, Feb  6 2017, 23:53:20) 
+[GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.34)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print 'Hello World!'
+Hello World!
+>>>
+```
