@@ -1,2 +1,2 @@
-1. Welcome to Python
+1. Introduction
 
