@@ -24,4 +24,4 @@
 * First your code (`.py` files) is parsed for syntax errors. Then it gets translated into the byte code (`.pyc` files)
 * These byte codes are then executed by the python virtual machine
 
-![Python Internals](https://raw.githubusercontent.com/akhilputhiry/python-for-maria/master/images/python_internals.png)
+![Python Internals](https://raw.githubusercontent.com/akhilputhiry/python-for-maria/master/images/python-internals.png)
