@@ -19,3 +19,7 @@
 <type 'str'>
 >>>
 ```
+
+## How python works ##
+* Python interpreter first translates your source code (your `.py` files) into byte code (`.pyc` files)
+* These byte codes are then executed by the python virtual machine
