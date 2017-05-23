@@ -19,5 +19,3 @@
 <type 'str'>
 >>>
 ```
-
-## Byte code ##
