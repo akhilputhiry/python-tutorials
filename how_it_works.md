@@ -4,5 +4,20 @@
 * The program thats getting started When you call `python` in the terminal is actually the interpreter
 
 ## Dynamically typed language ##
+* Python is a dynamically typed langugage
+* The type (integer/string/object etc) are associated with the run-time values, and not the named variables
+* If you see other languages like java you have to specify what type each variable is, here it is not needed
+* So you have the freedom to assign any value to any variable
+
+```
+>>> a = 10
+>>> type(a)
+<type 'int'>
+>>> 
+>>> a = 'Maria'
+>>> type(a)
+<type 'str'>
+>>>
+```
 
 ## Byte code ##
