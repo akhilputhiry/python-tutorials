@@ -120,4 +120,14 @@ False
 >>> not b
 True
 >>>
+>>> # Membership Operators
+>>> 
+>>> a = [1, 2, 3, 4, 5]
+>>> 1 in a
+True
+>>> 10 not in a
+True
+>>> 10 in a
+False
+>>>
 ```
