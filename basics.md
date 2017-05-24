@@ -130,4 +130,15 @@ True
 >>> 10 in a
 False
 >>>
+>>> # Identity Operators
+>>>
+>>> a = 1
+>>> 
+>>> a is int
+False
+>>> a is 1
+True
+>>> a is not 2
+True
+>>>
 ```
