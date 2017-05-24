@@ -38,19 +38,19 @@ else, is, with, except, lambda, yield
 <type 'int'>
 >>> 
 >>> b = 'Maria'
->>> type(a)
+>>> type(b)
 <type 'str'>
 >>> 
 >>> c = [1, 2, 3, 4, 5]
->>> type(a)
+>>> type(c)
 <type 'list'>
 >>> 
 >>> d = (1, 2, 3, 4, 5)
->>> type(a)
+>>> type(d)
 <type 'tuple'>
 >>> 
 >>> e = {1: "one", 2: "two", 3: "three"}
->>> type(a)
+>>> type(e)
 <type 'dict'>
 >>>
 ```
