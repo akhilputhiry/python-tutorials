@@ -25,5 +25,31 @@ else, is, with, except, lambda, yield
 ```
 
 ## Data types ##
+* Python has five standard data types
+* Numbers, String, List, Tuple, Dictionary
+* We will see the possible operations on these data types later
+
+```
+>>> a = 3
+>>> type(a)
+<type 'int'>
+>>> 
+>>> b = 'Maria'
+>>> type(a)
+<type 'str'>
+>>> 
+>>> c = [1, 2, 3, 4, 5]
+>>> type(a)
+<type 'list'>
+>>> 
+>>> d = (1, 2, 3, 4, 5)
+>>> type(a)
+<type 'tuple'>
+>>> 
+>>> e = {1: "one", 2: "two", 3: "three"}
+>>> type(a)
+<type 'dict'>
+>>>
+```
 
 ## Operators ##
