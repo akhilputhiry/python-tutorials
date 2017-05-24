@@ -56,3 +56,12 @@ else, is, with, except, lambda, yield
 ```
 
 ## Operators ##
+* This is again common for almost all languages
+* The list of operators supported in python are
+  * Arithmetic operators (+, -, *, /, %, //, **)
+  * Comparison operators (==, !-, >, <, >=, <=)
+  * Assignment operators (=, +=, -=, /=, %=, **=, //=)
+  * Logical operators (and, or,  not)
+  * Bitwise operators (&, |, ~, ^, <<, >>)
+  * Membership operators (in, not in)
+  * Identitiy operators (is, is not)
