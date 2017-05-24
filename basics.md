@@ -28,7 +28,7 @@ else, is, with, except, lambda, yield
 * Python has five standard data types
 * Numbers, String, List, Tuple, Dictionary
 * We will see the possible operations on these data types later
-* This is just an overview, there are different versions of numbers saying int, float, long, comple
+* This is just an overview, there are different versions of numbers saying int, float, long, complex
 * Similarly string has unicode strings etc
 * We will see all of them in the later part, for now just understand there are 5 basic datatypes
 
