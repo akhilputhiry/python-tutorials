@@ -67,6 +67,8 @@ else, is, with, except, lambda, yield
   * Identitiy operators (is, is not)
 
 ```
+>>> # Arithmetic Operators
+>>>
 >>> a = 2
 >>> b = 1
 >>> 
@@ -85,4 +87,22 @@ else, is, with, except, lambda, yield
 >>> a * b
 2
 >>> 
+>>> # Comparison Operators
+>>> 
+>>> a = 1
+>>> b = 3
+>>> 
+>>> a == b
+False
+>>> a > b
+False
+>>> a < b
+True
+>>> a >= b
+False
+>>> a <= b
+True
+>>> a != b
+True
+>>>
 ```
