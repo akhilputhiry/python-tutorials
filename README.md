@@ -1,3 +1,5 @@
+![Python](https://raw.githubusercontent.com/akhilputhiry/python-for-maria/master/images/python.png)
+
 I am writing this tutorials originally for my friend [Maria](https://github.com/MariaMathew2). Its meant for absolute beginners. Happy learning !!!
 
 1. [Introduction](https://github.com/akhilputhiry/python-for-maria/blob/master/introduction.md)
