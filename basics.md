@@ -105,4 +105,19 @@ True
 >>> a != b
 True
 >>>
+>>>
+>>> # Logical Operators
+>>>
+>>> a = True
+>>> b = False
+>>> 
+>>> a and b
+False
+>>> a or b
+True
+>>> not a
+False
+>>> not b
+True
+>>>
 ```
