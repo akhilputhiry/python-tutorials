@@ -230,3 +230,18 @@ No, because null/empty values are treated as false
 3
 >>>
 ```
+
+## Functions ##
+* Often we have do the samething again and again
+* In such situations instead of copy paste, we create reusable block of code called functions
+* functions in python starts with the keyword `def`
+
+```
+>>> 
+>>> def welcome(name):
+...     print "Welcome {}".format(name)
+... 
+>>> welcome('Maria')
+Welcome Maria
+>>>
+```
