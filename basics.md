@@ -244,4 +244,10 @@ No, because null/empty values are treated as false
 >>> welcome('Maria')
 Welcome Maria
 >>>
+>>> welcome('John')
+Welcome John
+>>>
+>>> welcome('Mathews')
+Welcome Mathews
+>>>
 ```
