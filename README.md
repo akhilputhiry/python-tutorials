@@ -7,4 +7,4 @@ I am writing this tutorials originally for my friend [Maria](https://github.com/
 1. [Introduction](https://github.com/akhilputhiry/python-for-maria/blob/master/introduction.md)
 2. [How python works](https://github.com/akhilputhiry/python-for-maria/blob/master/how-it-works.md)
 3. [Basics](https://github.com/akhilputhiry/python-for-maria/blob/master/basics.md)
-4. [Starting with simple scripts](#)
+4. [Starting with simple scripts](https://github.com/akhilputhiry/python-for-maria/blob/master/starting-with-simple-scripts.md)
