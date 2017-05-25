@@ -1,3 +1,5 @@
+## Scripts ##
+
 A sample python script looks like,
 
 ```
@@ -29,4 +31,5 @@ Now let me explain what this script means.
 
 
 ## Practise problems ##
+
 * Create a calculator script which can perform addition, substraction, division and multiplication
