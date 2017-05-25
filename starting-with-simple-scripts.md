@@ -26,3 +26,7 @@ Now let me explain what this script means.
 * Your program may need other libraries or functions/classes from other modules, `import` is used to import the required libraries to your script
 * After import statements it will be your functions or classes
 * `if __name__ == "__main__"` this is the entry point of the script
+
+
+## Practise problems ##
+* Create a calculator script which can perform addition, substraction, division and multiplication
