@@ -163,3 +163,28 @@ True
 100
 >>>
 ```
+
+## Decision Making ##
+* While programming always you have to do something based on the output of some expression 
+* You need to determine which action to take and which statements to execute if outcome is true or false otherwise
+* This decision making is done in python with the help of `if` statements
+* Python assumes any non-zero and non-null values as true, and if it is either zero or null, then it is assumed as false
+
+```
+>>> a = True
+>>> if a:
+...     print 'Thats true'
+... else:
+...     print 'Thats false'
+... 
+Thats true
+>>>
+>>> a = ''
+>>> if a:
+...     print 'Will this work?'
+... else:
+...     print 'No, because null/empty values are treated as false'
+... 
+No, because null/empty values are treated as false
+>>>
+```
