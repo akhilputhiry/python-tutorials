@@ -34,4 +34,4 @@ Now let me explain what this script means.
 
 * Create a calculator script which can perform addition, substraction, division and multiplication
 
-_**You can use https://repl.it/ to write and test your python scripts online**_
+_**You can use https://repl.it/languages/python to write and test your python scripts online**_
