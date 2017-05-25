@@ -9,4 +9,4 @@ I am writing this tutorials originally for my friend [Maria](https://github.com/
 3. [Basics](https://github.com/akhilputhiry/python-for-maria/blob/master/basics.md)
 4. [Starting with simple scripts](https://github.com/akhilputhiry/python-for-maria/blob/master/starting-with-simple-scripts.md)
 
-You can use https://repl.it/languages/python to write and test your python scripts online
+You can use [repl.it](https://repl.it/languages/python) to write and test your python scripts online
