@@ -188,3 +188,45 @@ Thats true
 No, because null/empty values are treated as false
 >>>
 ```
+
+## Loops ##
+* Loops are helpful when you need to execute a block of code several number of times
+* Python provides `while` and `for` loops
+* You can terminate a loop using `break`
+* You can skip the remaining part of the loop using `continue`
+
+```
+>>> counter = 2
+>>> while counter:
+...     print counter
+...     counter -= 1
+... 
+2
+1
+>>>
+>>> a = [1, 2]
+>>> for e in a:
+...     print e
+... 
+1
+2
+>>>
+>>> a = [1, 2, 3]
+>>> for e in a:
+...     if e > 2:
+...         break
+...     print e  # this wont execute for 3
+... 
+1
+2
+>>>
+>>> a = [1, 2, 3]
+>>> for e in a:
+...     if e == 2:
+...         continue
+...     print e  # this will be skipped for 2
+... 
+1
+3
+>>>
+```
