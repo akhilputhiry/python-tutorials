@@ -267,3 +267,24 @@ None
 7
 >>>
 ```
+
+## Classes ##
+* Python classes are really a big topic
+* For now we will just see how to create a class and use it in your code
+* We will see about classes in detail later
+* Normally for simple scripts functions are enough
+
+```
+>>>
+>>> class Student(object):
+...     def __init__(self, name):
+...         self.name = name
+...     def welcome(self):
+...         print "Welcome {}".format(self.name)
+... 
+>>> student = Student('Maria')
+>>> student.welcome()
+Welcome Maria
+>>>
+>>>
+```
