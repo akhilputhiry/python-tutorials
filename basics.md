@@ -235,6 +235,8 @@ No, because null/empty values are treated as false
 * Often we have do the samething again and again
 * In such situations instead of copy paste, we create reusable block of code called functions
 * functions in python starts with the keyword `def`
+* you can return values from function using the keyword `return`
+* if your function is not returning anything, python consider that as `None`
 
 ```
 >>> 
@@ -249,5 +251,19 @@ Welcome John
 >>>
 >>> welcome('Mathews')
 Welcome Mathews
+>>>
+>>>print welcome('Maria')
+Welcome Maria
+None
+>>>
+>>>
+>>> 
+>>> def sum(a, b):
+...      return a + b
+... 
+>>> print sum(1, 2)
+3
+>>> print sum(3, 4)
+7
 >>>
 ```
