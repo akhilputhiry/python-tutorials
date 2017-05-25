@@ -1,4 +1,6 @@
-![Python](https://raw.githubusercontent.com/akhilputhiry/python-for-maria/master/images/python.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/akhilputhiry/python-for-maria/master/images/python.png" />
+</p>
 
 I am writing this tutorials originally for my friend [Maria](https://github.com/MariaMathew2). Its meant for absolute beginners. Happy learning !!!
 
