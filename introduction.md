@@ -12,7 +12,7 @@
 * You can run it anywhere, any OS is fine
 
 ## How can I start writing python programs? ##
-* If you are in windows, download and install python from [here](https://www.python.org/downloads/) - If you are not sure which version to use, I prefer you start with 2.7.x version
+* If you are in windows, download and install python from [here](https://www.python.org/downloads/) - If you are not sure which version to use, I prefer you start with 3.6.x version
 * It comes by default in Mac and Linux operating systems, you can kick it off by just typing `python` in the terminal
 
 ## How can I be part of the python community ##
