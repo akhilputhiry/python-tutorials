@@ -26,11 +26,11 @@
 * Type `print 'Hello World'` and there you go, Welcome to python
 
 ```
-Akhils-MacBook-Air:python-for-maria akhilputhiry$ python
-Python 2.7.10 (default, Feb  6 2017, 23:53:20) 
-[GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.34)] on darwin
+~ $ python3
+Python 3.6.1 (default, Apr  4 2017, 09:40:21) 
+[GCC 4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.38)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
->>> print 'Hello World!'
+>>> print('Hello World!')
 Hello World!
 >>>
 ```
