@@ -6,9 +6,9 @@
 
 ```
 >>> if True:
-...     print 'It Worked!'
+...     print('It Worked!')
 ... else:
-...     print 'This will never work'
+...     print('This will never work')
 ... 
 It Worked!
 >>>
@@ -173,17 +173,17 @@ True
 ```
 >>> a = True
 >>> if a:
-...     print 'Thats true'
+...     print('Thats true')
 ... else:
-...     print 'Thats false'
+...     print('Thats false')
 ... 
 Thats true
 >>>
 >>> a = ''
 >>> if a:
-...     print 'Will this work?'
+...     print('Will this work?')
 ... else:
-...     print 'No, because null/empty values are treated as false'
+...     print('No, because null/empty values are treated as false')
 ... 
 No, because null/empty values are treated as false
 >>>
@@ -198,7 +198,7 @@ No, because null/empty values are treated as false
 ```
 >>> counter = 2
 >>> while counter:
-...     print counter
+...     print(counter)
 ...     counter -= 1
 ... 
 2
@@ -215,7 +215,7 @@ No, because null/empty values are treated as false
 >>> for e in a:
 ...     if e > 2:
 ...         break
-...     print e  # this wont execute for 3
+...     print(e)  # this wont execute for 3
 ... 
 1
 2
@@ -224,7 +224,7 @@ No, because null/empty values are treated as false
 >>> for e in a:
 ...     if e == 2:
 ...         continue
-...     print e  # this will be skipped for 2
+...     print(e)  # this will be skipped for 2
 ... 
 1
 3
@@ -241,7 +241,7 @@ No, because null/empty values are treated as false
 ```
 >>> 
 >>> def welcome(name):
-...     print "Welcome {}".format(name)
+...     print("Welcome {}".format(name))
 ... 
 >>> welcome('Maria')
 Welcome Maria
@@ -261,9 +261,9 @@ None
 >>> def sum(a, b):
 ...      return a + b
 ... 
->>> print sum(1, 2)
+>>> print(sum(1, 2))
 3
->>> print sum(3, 4)
+>>> print(sum(3, 4))
 7
 >>>
 ```
@@ -280,7 +280,7 @@ None
 ...     def __init__(self, name):
 ...         self.name = name
 ...     def welcome(self):
-...         print "Welcome {}".format(self.name)
+...         print("Welcome {}".format(self.name))
 ... 
 >>> student = Student('Maria')
 >>> student.welcome()
