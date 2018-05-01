@@ -27,14 +27,12 @@ class C(A):
         print('Thor')
 
 class D(B, C):
-    
-    def display(self):
-        print('Captain America')
+    pass
 ```
 
 What will be the output if someone tries to execute the `display` method of class `D`? Will it execute the `display` defined in class `B` or class `C`. This `confusion or ambiguity` is called the `diamond problem` and solution for this ambiguity is called the `Method resolution order (MRO)`
 
-# Method Resolution Order (MRO)
+# Solution
 
 When the above probem occurs, the Python interpreter does the following
 
@@ -42,7 +40,7 @@ When the above probem occurs, the Python interpreter does the following
 * If not, looks if it exists in its first parent, then in the parent of the parent and so on
 * If not, it looks if current class inherits from others classes up to the current instance others parents
 
-So in our example the lookup path will be
+So in our example the method resolution order aka lookup path will be like the following
 
 * Look in `D`
 * If not found, look in `B`
