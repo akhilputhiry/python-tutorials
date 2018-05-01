@@ -32,4 +32,4 @@ class D(B, C):
         print('Captain America')
 ```
 
-What will be the output if someone tries to execute the `display` method of class `D`. This `confusion or ambiguity` is called the `diamond problem` and solution for this ambiguity is called the `Method resolution order (MRO)`
+What will be the output if someone tries to execute the `display` method of class `D`? Will it execute the `display` defined in class `B` or class `C`. This `confusion or ambiguity` is called the `diamond problem` and solution for this ambiguity is called the `Method resolution order (MRO)`
