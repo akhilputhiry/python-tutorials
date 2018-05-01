@@ -12,14 +12,24 @@ You have 4 classes `A`, `B`, `C`, `D`. Among these classes, `B` and `C` are inhe
 
 ```
 class A(object):
-    pass
+    
+    def display(self):
+        print('Iron Man')
     
 class B(A):
-    pass
+    
+    def display(self):
+        print('Hulk')
     
 class C(A):
-    pass
+    
+    def display(self):
+        print('Thor')
 
 class D(B, C):
-    pass
+    
+    def display(self):
+        print('Captain America')
 ```
+
+What will be the output if someone tries to execute the `display` method of class `D`. This `confusion or ambiguity` is called the `diamond problem` and solution for this ambiguity is called the `Method resolution order (MRO)`
